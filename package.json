@@ -1,0 +1,22 @@
+{
+  "name": "playwright-learning",
+  "version": "1.0.0",
+  "description": "playwrignt concepts learning",
+  "homepage": "https://github.com/alamelu-kulaikathan/playwright-learning#readme",
+  "bugs": {
+    "url": "https://github.com/alamelu-kulaikathan/playwright-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alamelu-kulaikathan/playwright-learning.git"
+  },
+  "license": "ISC",
+  "author": "Alamelu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0"
+  }
+}
