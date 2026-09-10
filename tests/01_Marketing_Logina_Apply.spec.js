@@ -1,5 +1,6 @@
 const { test, expect } = require("@playwright/test");
 
+
 test("Login apply", async ({ page }) => {
   await page.goto("https://www.hays.com.au/jobs");
   await page.getByRole("button", { name: "Agree and Proceed" }).click();
